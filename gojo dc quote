@@ -1,0 +1,9 @@
+wait(6)
+message = "if i didint stop watching latina in nike pro videos then.."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2)
+message = "i wouldve got gripped, but id win, "
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2)
+message = "That's why your mission of ending  me failed."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
