@@ -1,0 +1,14 @@
+message = "IF I CANT GRAPE MY CHILDREN THEN NO ONE CAN!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.5)
+message = "MAXIMUM SEPTEMBER! :"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.5)
+message = "TWO TOWERS!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(0.70)
+message = "TWO PLANES!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.35)
+message = "EXPLODE + CRUMBLE!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
