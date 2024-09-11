@@ -1,0 +1,8 @@
+message = "Cursed Technique , "
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(0.70)
+message = "Amplified.."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.35)
+message = "Cured ULTRA BLUE FN!!!!1!!11!11!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
