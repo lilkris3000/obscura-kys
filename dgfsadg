@@ -1,0 +1,11 @@
+message = "Reversed grip technique really did Revive me huh?"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = "I'm just STARVING to touch some freshmans  already!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = "Im putting it in, i- IM GRIPPING IT, "
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = "i t - think, that i... im the grippy rizzler  after all!."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
