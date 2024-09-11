@@ -1,0 +1,11 @@
+message = "Sorry, Osaka. I’m not even gonna grape you right now."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = " I bear no assault against people."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = "It’s just that latina in like pros, makes me feel so wonderful right now."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.25)
+message = "Throughout Crimson and Purgatory, I alone am the freaky one."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
