@@ -1,0 +1,2 @@
+message = "Imaginary technique , grip him like Astolfo!"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
